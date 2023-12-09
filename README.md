@@ -1,4 +1,5 @@
 # spotify-clone
 Clone Spotify with React Native 
 
-<a href="[doc:introduction](https://github.com/)" target="_blank">Introduction</a>
+<a href="https://www.google.com/" target="_blank">Google</a>
+
